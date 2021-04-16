@@ -1,4 +1,4 @@
-name: build-openwrt-Lean
+name: openwrt-Lean
 
 on:
 # release:
